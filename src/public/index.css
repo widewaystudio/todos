@@ -1,0 +1,16 @@
+html,body,button{
+    margin:0;
+    padding:0;
+}
+body{
+    font:14px 'Helvetica',Helvetica,Arial,sans-serif;
+    line-height:1.4em;
+    background:#f5f5f5;
+    color:#4d4d4d;
+    min-width:230px;
+    max-width:550px;
+    margin:50px auto;
+    font-weight:300;
+    font-smoothing:antialiased;
+}
+
